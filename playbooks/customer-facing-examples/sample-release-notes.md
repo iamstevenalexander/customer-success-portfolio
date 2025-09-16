@@ -1,3 +1,7 @@
+> Example release notes structured for customer value: what changed, why it matters, and how to get started.
+
+
+
 # Release Notes (Sample)
 
 **What’s New**  
