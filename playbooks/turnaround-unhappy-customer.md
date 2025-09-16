@@ -1,3 +1,7 @@
+> A practical example of how I managed and turned around an at-risk customer at Uber Freight, using structured escalation and proactive engagement to secure renewal and expansion.
+
+
+
 # Turnaround Playbook – Unhappy Customer
 
 **Context (Uber Freight):**  
