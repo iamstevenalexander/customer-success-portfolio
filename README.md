@@ -23,7 +23,7 @@ This portfolio demonstrates the way I approach Customer Success through playbook
 ---
 
 ## 🛠 Tools & Skills
-- CRM & CS Platforms: Salesforce, HubSpot, Gainsight, Zendesk  
+- CRM & CS Platforms: Salesforce, HubSpot, Gainsight, Zendesk, Looker  
 - Collaboration: GitHub (Issues, Projects, Wikis), Google Workspace, Slack  
 - Data & Reporting: Looker, BI dashboards, CSAT/NPS tracking  
 - Success Practices: QBRs, success plans, onboarding, renewals, adoption strategies  
