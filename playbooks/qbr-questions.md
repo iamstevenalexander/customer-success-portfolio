@@ -1,3 +1,8 @@
+> A framework of questions designed to turn Quarterly Business Reviews into strategic conversations that uncover adoption barriers, growth opportunities, and renewal drivers.
+
+
+
+
 # QBR Questions that Drive Adoption
 Quarterly Business Reviews (QBRs) aren’t just about reporting numbers — they’re about creating alignment, uncovering opportunities, and ensuring the customer’s goals are tied to product value. These are the core questions I use to guide conversations and drive meaningful outcomes:
 
