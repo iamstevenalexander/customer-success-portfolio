@@ -6,7 +6,7 @@
 - Executives (outcomes + ROI)  
 
 **Formats:**  
-- Quickstart guide (1-pager)  
+- Quickstart guide (1-pager) 
 - Short video (3–5 min walkthrough)  
 - FAQ document  
 - Training slide deck  
