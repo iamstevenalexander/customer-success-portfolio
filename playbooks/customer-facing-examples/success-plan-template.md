@@ -1,3 +1,7 @@
+> A reusable template for creating Customer Success Plans that align client goals, KPIs, milestones, and risks with measurable business outcomes.
+
+
+
 # Customer Success Plan (Template)
 
 **Customer Name:**  
