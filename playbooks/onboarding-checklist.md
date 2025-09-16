@@ -1,3 +1,6 @@
+> This playbook provides a structured onboarding process for enterprise clients, ensuring quick adoption, executive alignment, and measurable early wins.
+
+
 Kickoff within 5 business days (agenda sent 48h prior).
 Define measurable goals + success plan (owner, metric, date).
 Admin + end-user training scheduled and delivered.
