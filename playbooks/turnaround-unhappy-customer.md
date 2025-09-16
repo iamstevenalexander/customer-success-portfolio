@@ -1,7 +1,7 @@
 # Turnaround Playbook – Unhappy Customer
 
 **Context (Uber Freight):**  
-A shipper was frustrated due to repeated carrier delays that hurt their business.  
+A shipper was frustrated due to repeated carrier delays that hurt their business. 
 
 **Steps Taken:**  
 - Actively listened and acknowledged the impact in their own words.  
