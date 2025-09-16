@@ -1,3 +1,7 @@
+> Documentation of how I used AI and HubSpot to scale personalized communication with Dispatch clients, reducing tickets and boosting feature adoption.
+
+
+
 # AI + HubSpot Automation for Scaled Customer Communication
 
 **Context (Dispatch):**  
