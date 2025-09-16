@@ -1,3 +1,7 @@
+> A summary of key performance indicators I’ve owned and delivered against, highlighting adoption, retention, renewals, and customer satisfaction.
+
+
+
 # KPIs & Outcomes
 
 **Key Metrics I’ve Owned and Delivered Against**
