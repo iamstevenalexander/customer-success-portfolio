@@ -1,7 +1,6 @@
 # Customer Success Portfolio – Steven Pearson
 
-👋 Hi, I’m **Steven Pearson**, a Customer Success leader with 18+ years across SaaS, logistics, and compliance (Dispatch, Kantola, Uber Freight).  
-I specialize in building **processes from the ground up**, driving adoption and retention, and partnering with Sales, Product, and Engineering to deliver measurable customer outcomes.
+👋 Hi, I’m **Steven Pearson**, a Customer Success leader with 18+ years across SaaS, logistics, and compliance (Dispatch, Kantola, Uber Freight). I specialize in building **processes from the ground up**, driving adoption and retention, and partnering with Sales, Product, and Engineering to deliver measurable customer outcomes.
 
 ---
 
