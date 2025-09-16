@@ -2,7 +2,7 @@
 
 **Audience:**  
 - Admins (configuration + reporting)  
-- End users (daily workflow)  
+- End users (daily workflow) 
 - Executives (outcomes + ROI)  
 
 **Formats:**  
