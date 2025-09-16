@@ -1,3 +1,7 @@
+> Framework for creating and updating customer training materials, designed to ensure content stays fresh, accessible, and aligned to release cycles.
+
+
+
 # Training Materials SOP
 
 **Audience:**  
