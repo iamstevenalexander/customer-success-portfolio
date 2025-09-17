@@ -9,7 +9,7 @@ Quarterly Business Reviews (QBRs) aren’t just about reporting numbers — they
 - **What outcome matters most this quarter?**  
   (Usually framed as a single KPI the customer would proudly show their leadership team.)
 
-- **What’s blocking broader adoption today?**  
+- **What’s blocking broader adoption today?**
   (Digging into people, process, or technical barriers.)
 
 - **Which workflows are still manual and should be automated?**  
