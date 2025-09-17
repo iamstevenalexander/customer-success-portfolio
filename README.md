@@ -47,7 +47,7 @@ Templates and resources I’ve shared directly with clients:
 
 ### 📊 QBR Deck  
 - **[QBR Deck (PDF)](./assets/qbr-deck.pdf)**  
-  - Includes business goals, KPIs & outcomes, milestones, and next steps:contentReference[oaicite:0]{index=0}  
+  - Includes business goals, KPIs & outcomes, milestones, and next steps 
 
 ### 📈 Metrics  
 Highlights key KPIs and performance outcomes from my roles:  
