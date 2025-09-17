@@ -10,7 +10,7 @@
 - ▶️ [Playbooks](./playbooks/)
 - ⚙️ [Processes & SOPs](./processes/)
 - 🧩 [Customer-Facing Examples](./customer-facing/)
-- 📊 [QBR Deck (PDF)](./assets/qbr-deck-skeleton.pdf)
+- 📊 [QBR Deck (PDF)](./assets/qbr-deck.pdf)
 - 📈 [Metrics](./metrics.md)
 
 ---
@@ -46,7 +46,7 @@ Templates and resources I’ve shared directly with clients:
 - Sample release notes  
 
 ### 📊 QBR Deck  
-- **[QBR Deck (PDF)](./assets/qbr-deck-skeleton.pdf)**  
+- **[QBR Deck (PDF)](./assets/qbr-deck.pdf)**  
   - Includes business goals, KPIs & outcomes, milestones, and next steps:contentReference[oaicite:0]{index=0}  
 
 ### 📈 Metrics  
