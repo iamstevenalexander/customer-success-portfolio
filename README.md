@@ -7,11 +7,10 @@
 ---
 
 ## Quick Links
-- ▶️ [Playbooks](./playbooks/)
-- ⚙️ [Processes & SOPs](./processes/)
-- 🧩 [Customer-Facing Examples](./customer-facing/)
-- 📊 [QBR Deck (PDF)](./assets/qbr-deck.pdf)
-- 📈 [Metrics](./metrics.md)
+- ▶️ [Playbooks](./playbooks)
+- ⚙️ [Processes & SOPs](#processes--sops)
+- 🧰 [Customer-Facing Examples](#customer-facing-examples)
+- 📈 [Metrics](#metrics)
 
 ---
 
