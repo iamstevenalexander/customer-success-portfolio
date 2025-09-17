@@ -55,11 +55,7 @@ Highlights key KPIs and performance outcomes from my roles:
 - Expansion Revenue  
 - Adoption & CSAT trends  
 
----
 
-## Preview  
-
-<img src="./assets/qbr-skeleton-preview-1.png" width="700" />  
 
 ---
 
