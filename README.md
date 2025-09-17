@@ -1,43 +1,74 @@
-# Customer Success Portfolio – Steven Pearson
+# Customer Success Portfolio  
 
-👋 Hi, I’m **Steven Pearson**, a Customer Success leader with 18+ years across SaaS, logistics, and compliance (Dispatch, Kantola, Uber Freight). I specialize in building **processes from the ground up**, driving adoption and retention, and partnering with Sales, Product, and Engineering to deliver measurable customer outcomes.
-
----
-
-## 📂 Repo Overview
-This portfolio demonstrates the way I approach Customer Success through playbooks, processes, and customer-facing resources.
-
-- **[Playbooks](./playbooks)**  
-  Onboarding checklists, QBR frameworks, and a real-world turnaround example.
-
-- **[Processes & SOPs](./processes-sops)**  
-  Escalation workflow, AI + HubSpot scaled comms, and training SOPs.
-
-- **[Customer-Facing Examples](./customer-facing-examples)**  
-  Success plan template, sample release notes, and a QBR deck (PDF).
-
-- **[Metrics](./metrics/kpis-and-outcomes.md)**  
-  KPIs and outcomes I’ve delivered, including NRR, adoption, and CSAT.
+![Playbooks](https://img.shields.io/badge/Playbooks-3-00AEEF) 
+![Processes](https://img.shields.io/badge/Processes%20%26%20SOPs-3-00AEEF) 
+![Customer%20Assets](https://img.shields.io/badge/Customer%20Assets-3-00AEEF)  
 
 ---
 
-## 🛠 Tools & Skills
-- CRM & CS Platforms: Salesforce, HubSpot, Gainsight, Zendesk,
-- Collaboration: GitHub (Issues, Projects, Wikis), Google Workspace, Slack  
-- Data & Reporting: Looker, BI dashboards, CSAT/NPS tracking  
-- Success Practices: QBRs, success plans, onboarding, renewals, adoption strategies  
+## Quick Links
+- ▶️ [Playbooks](./playbooks/)
+- ⚙️ [Processes & SOPs](./processes/)
+- 🧩 [Customer-Facing Examples](./customer-facing/)
+- 📊 [QBR Deck (PDF)](./assets/qbr-deck-skeleton.pdf)
+- 📈 [Metrics](./metrics.md)
 
 ---
 
-## ✨ Why This Matters
-This repo isn’t about code — it’s about **showing how I think as a CSM**:  
-- Structuring processes that scale  
-- Capturing customer insights  
-- Building repeatable playbooks  
-- Delivering measurable value  
+## About Me  
+I’m **Steven Pearson**, a Customer Success Manager with **18+ years of experience** helping enterprise and mid-market clients succeed across **SaaS, logistics, and compliance training**.  
+
+I specialize in:  
+- Driving **95%+ retention** through success planning and executive engagement  
+- Leading **onboarding, adoption, and training** for 300+ accounts  
+- Building **processes and SOPs** that scale customer success operations  
+- Leveraging tools like **Salesforce, HubSpot, Gainsight, Zendesk, and Looker** to deliver measurable outcomes  
 
 ---
 
-📫 **Contact**  
-- Email: [steven.pearson3276@gmail.com](mailto:steven.pearson3276@gmail.com)  
-- LinkedIn: [linkedin.com/in/stevenpearsonjr](https://www.linkedin.com/in/stevenpearsonjr)
+## What’s Inside  
+
+### 📘 Playbooks  
+Practical guides and scenarios I’ve built and used in real customer engagements:  
+- Onboarding checklist  
+- QBR preparation questions  
+- Turning around an unhappy customer  
+
+### ⚙️ Processes & SOPs  
+Frameworks and internal guides:  
+- Escalation workflow  
+- AI-powered HubSpot automation for client comms  
+- Training materials & SOPs  
+
+### 🧩 Customer-Facing Examples  
+Templates and resources I’ve shared directly with clients:  
+- Success plan template  
+- Sample release notes  
+
+### 📊 QBR Deck  
+- **[QBR Deck (PDF)](./assets/qbr-deck-skeleton.pdf)**  
+  - Includes business goals, KPIs & outcomes, milestones, and next steps:contentReference[oaicite:0]{index=0}  
+
+### 📈 Metrics  
+Highlights key KPIs and performance outcomes from my roles:  
+- Net Retention  
+- Expansion Revenue  
+- Adoption & CSAT trends  
+
+---
+
+## Preview  
+
+<img src="./assets/qbr-skeleton-preview-1.png" width="700" />  
+
+---
+
+## Contact  
+
+**Interested in how I’d tailor this for your team?**  
+📧 steven.pearson3276@gmail.com · [LinkedIn](https://www.linkedin.com/in/stevenpearsonjr)  
+
+---
+
+© 2025 Steven Pearson · All rights reserved  
+
